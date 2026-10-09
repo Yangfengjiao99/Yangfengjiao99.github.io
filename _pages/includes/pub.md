@@ -1,6 +1,3 @@
-
-<!-- # 📝 Title of paper(under review)
-## 🎙  Cloud Workload Forecasting -->
 # 📝 Publications
 
 <div class='paper-box'>
