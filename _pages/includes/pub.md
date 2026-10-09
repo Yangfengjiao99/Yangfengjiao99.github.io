@@ -25,7 +25,7 @@
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">Scientific Reports</div><img src='images/electronics.png' alt="sym"></div>
+    <div><div class="badge">Scientific Reports</div><img src='images/1.png' alt="sym"></div>
   </div>
   <div class='paper-box-text'>
     <p><a href="https://www.nature.com/articles/s41598-024-78984-1">Research on stock prediction based on CED-PSO-StockNet time series model</a><br>
