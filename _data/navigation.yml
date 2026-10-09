@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications and Project"
+    url: "/#-publications-and-project"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Rewards"
+    url: "/#-rewards"
+
+  - title: "Academic Service"
+    url: "/#-academic-service"
+
+  - title: "Internships"
+    url: "/#-internships"
+  - title: "CV"
+    url: /docs/yinongli_resume.pdf
+    external: true
