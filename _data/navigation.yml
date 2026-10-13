@@ -2,24 +2,22 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications and Project"
-    url: "/#-publications-and-project"
+    
+  - title: "Publications "
+    url: "/#Publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-Educations"
 
   - title: "Rewards"
-    url: "/#-rewards"
+    url: "/#-Rewards"
 
   - title: "Academic Service"
     url: "/#-academic-service"
 
   - title: "Internships"
     url: "/#-internships"
+  
   - title: "CV"
     url: /docs/yinongli_resume.pdf
     external: true
